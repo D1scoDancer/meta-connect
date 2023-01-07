@@ -1,13 +1,13 @@
-import "./App.css";
+import './App.css'
 
-import WalletCard from "./WalletCard";
+import WalletCard from './WalletCard'
 
 function App() {
-  return (
-    <div className="App">
-      <WalletCard />
-    </div>
-  );
+    return (
+        <div className="App">
+            <WalletCard />
+        </div>
+    )
 }
 
-export default App;
+export default App
